@@ -7,10 +7,10 @@ function Footer() {
 				Awa Okuji Michael
 			</a>
 			<a
-				href="mailto:okujiawa215@@emial.com"
+				href="mailto:okujiawa215@gmail.com"
 				className="text-sm md:text-md hover:text-indigo-500"
 			>
-				okujiawa215@@emial.com
+				okujiawa215@gmail.com
 			</a>
 			<p className="text-xs mt-2 text-gray-500">
 				© Awa Okuji Michael {new Date().getFullYear()}. All rights reserved
