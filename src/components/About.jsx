@@ -14,7 +14,7 @@ function About() {
 					href="mailto:okujiawa215@emial.com"
 					className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
 				>
-					okujiawa215@emial.com
+					okujiawa215@gmail.com
 				</a>
 			</div>
 
